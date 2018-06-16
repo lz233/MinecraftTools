@@ -1,0 +1,33 @@
+<!--没有IDE，用备忘录临时撸了一个version 4 的uuid生成工具-->
+<!--by 安静-->
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+</head>
+<body>
+   <script>
+    function generateuuid(){
+        var chars="0123456789abcdef";
+        var uuid="";
+        for(var i=0;i<8;i++){
+            var t=Math.floor(Math.random()*16);
+            uuid+=chars[t];
+        }
+        uuid+="-";
+        for(var j=0;j<3;j++){
+            for(var i=0;i<4;i++){
+                 var t=Math.floor(Math.random()*16);
+                 uuid+=chars[t];
+            }
+            uuid+="-";
+        }
+        for(var i=0;i<12;i++){
+            var t=Math.floor(Math.random()*16);
+            uuid+=chars[t];
+        }
+        document.write(uuid);
+    }
+generateuuid();
+</script> 
+</body>
+</html>

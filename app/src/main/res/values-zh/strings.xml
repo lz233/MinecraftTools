@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Minecraft 工具箱</string>
+    <string name="action_settings">设置</string>
+    <string name="large_text">" "</string>
+    <string name="tab1">游戏本体下载</string>
+    <string name="tab2">其他应用下载</string>
+    <string name="title_activity_minecraft_download">官方安装包</string>
+    <string name="title_activity_minecraft_download2">非官方安装包</string>
+    <string name="title_activity_garbage_box">杂物盒</string>
+    <string name="download">直接下载</string>
+    <string name="openurl">打开网址</string>
+    <string name="lucky">幸运破解器 6.7.0</string>
+    <string name="title_activity_about">关于</string>
+    <string name="tab4">应用</string>
+    <string name="about_by">Minecraft Tools by lz差不多是条咸鱼了 邮箱：lz233@acfan.ml dwmod@qq.com 2484319359@qq.com Twitter:@lz__233 网易Minecraft：小萌新w 某盒子：lz差不多是条咸鱼了</string>
+    <string name="about_text">欢迎使用 Minecraft工具箱，这是一款方便的多功能游戏管理工具。\n\n感谢：\n腾讯Bugly提供的产品异常上报、内测分发和应用升级服务</string>
+    <string name="title_activity_uuid">UUID生成器</string>
+    <string name="title_activity_url">网页浏览器</string>
+    <string name="no_read_permission">没有储存权限，请手动开启。</string>
+    <string name="downloading">正在下载，请查看通知栏消息。</string>
+    <string name="qq_fail">打开QQ失败</string>
+    <string name="about_appname">Minecraft 工具箱 by lz差不多是条咸鱼了</string>
+    <string name="about_keytime">Key有效时间：</string>
+    <string name="devcard">开发者预览</string>
+    <string name="tab3">工具</string>
+    <string name="result">结果</string>
+    <string name="uuid_about">轻触右上角按钮来获取一个新的uuid，长按结果复制。\n此功能由DBRT团队提供，基于JavaScript实现。</string>
+    <string name="qun">加群上车</string>
+    <string name="onetext_nothing">暂无内容</string>
+    <string name="error">错误</string>
+</resources>

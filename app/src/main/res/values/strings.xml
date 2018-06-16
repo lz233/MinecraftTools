@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Minecraft Tools</string>
+    <string name="large_text"> </string>
+    <string name="action_settings">Settings</string>
+    <string name="tab1">Minecraft Download</string>
+    <string name="tab2">Other App Download</string>
+    <string name="title_activity_minecraft_download">Official Minecraft</string>
+    <string name="title_activity_minecraft_download2">Unofficial Minecraft</string>
+    <string name="title_activity_garbage_box">Garbage Box</string>
+    <string name="download">Download</string>
+    <string name="openurl">Open URL</string>
+    <string name="lucky">Lucky Cracker 6.7.0</string>
+    <string name="title_activity_about">About</string>
+    <string name="tab4">Application</string>
+    <string name="about_appname">Minecraft Tools by lz233</string>
+    <string name="about_by">Minecraft Tools by lz233\nEmail:lz233@acfan.ml dwmod@qq.com 2484319359@qq.com\nTwitter:@lz__233</string>
+    <string name="about_text">Welcome to Minecraft Tools,this is a handy multifunctional game management tool.\n\nThanks:\nTencent Bugly provides product abnormal reporting, internal measurement distribution, and application upgrade services.</string>
+    <string name="title_activity_uuid">UUID Maker</string>
+    <string name="title_activity_url">Webview</string>
+    <string name="no_read_permission">No write permission, please open it manually.</string>
+    <string name="downloading">Downloading, please check the notification bar.</string>
+    <string name="qq_fail">Failed to open QQ</string>
+    <string name="about_keytime">Key valid time:</string>
+    <string name="devcard">Developer Preview (Chinese only)</string>
+    <string name="tab3">Tools</string>
+    <string name="result">Result</string>
+    <string name="uuid_about">Touch the floating action button to get a new uuid, long press the result to copy.\nThis tools is provided by the DBRT team and is based on JavaScript.</string>
+    <string name="qun">join</string>
+    <string name="onetext_nothing">Your current region cannot use this feature.</string>
+    <string name="error">error</string>
+</resources>
